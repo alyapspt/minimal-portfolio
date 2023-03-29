@@ -1,14 +1,20 @@
 # Portfolio
 ---
-## Nama   : Alya Puspita Zahra
-title: <p align="center"> Alya Puspita Zahra </p>
+## Alya Puspita Zahra
+![image.png](https://user-images.githubusercontent.com/129297622/228613609-1befb2b4-8ef8-4e79-b85d-55121cecfe6e.jpeg)
 
-logo: "https://postimg.cc/c697QJ18"
-
-description:
   <p align="center">
   <a href="https://www.instagram.com/alyapspt_/">Instagram</a> |
   <a href="https://www.linkedin.com/in/alya-puspita-zahra-75a624205/">LinkedIn</a> |
+  
+  <p align="justify">
+  I am an undergraduate student majoring in Physics Education at Mulawarman University.
+  <br><br>
+  I am an enthusiastic learner and have interests in education such as being a teacher and researcher according to my educational background.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
 
 ### Asal  : Pendidikan Fisika Universitas Mulawarman
 
