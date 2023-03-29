@@ -1,6 +1,14 @@
 # Portfolio
 ---
 ## Nama   : Alya Puspita Zahra
+title: <p align="center"> Alya Puspita Zahra </p>
+
+logo: "https://postimg.cc/c697QJ18"
+
+description:
+  <p align="center">
+  <a href="https://www.instagram.com/alyapspt_/">Instagram</a> |
+  <a href="https://www.linkedin.com/in/alya-puspita-zahra-75a624205/">LinkedIn</a> |
 
 ### Asal  : Pendidikan Fisika Universitas Mulawarman
 
