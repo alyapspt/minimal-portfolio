@@ -1,14 +1,10 @@
 # Portfolio
 ---
-## Alya Puspita Zahra
+## Nama   : Alya Puspita Zahra
 
-### CS224n: Pendidikan Fisika Universitas Mulawarman
+### Asal  : Pendidikan Fisika Universitas Mulawarman
 
-My complete implementation of assignments and projects in [***CS224n: Alya Puspita Zahra***]
-
-[![View on GitHub]
-
-**Alya Puspita Zahra:** Arti dari namaku adalah Bunga Bercahaya yang Berada di Tempat yang Tinggi([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Alya Puspita Zahra:** Arti dari namaku adalah Bunga Bercahaya yang Berada di Tempat yang Tinggi([GitHub]
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
